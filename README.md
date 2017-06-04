@@ -1,4 +1,5 @@
-# Nggallery
+# 
+Dewangga  Pramudhita 2014157026
 
 This project was generated with [ CLI](https://github.com//-cli) version 1.0.3.
 
